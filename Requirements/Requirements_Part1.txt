@@ -1,20 +1,13 @@
-
 Overview of Changes
 
-<<<<<<< HEAD
-1. Levels
-    
-    Leaves
-    Branches
-    Trunk
-    Roots 
-
-2. Setup
-3. Gameplay
-4. End Goals
-=======
 1. Levels - Krish
-2. Setup - Granth * 3 Boons* 3 Questions* 3 Days outside Yama’s House* 3 Characters (Father, Nachiketa, Lord Yama)* Body ~ Chariot Analogy* Symbolism of Om - The Ultimate Solution* Temptations - Chariots/ Elephants/ Long life/ Many children with longer life/ Riches/ Gold/ Pearls/ Horses
-3. Gameplay - Japesh ~ Level one,roots: The backround can be roots.  
-4. End Goals - Yash, Mahir
->>>>>>> c9dc921d01e32837db95407a86ce9393664cf9c0
+2. Setup - Granth
+3. Gameplay - Japesh
+4. End Goals - Yash, Mahirrr
+Get a working game that can be played and has controls.
+Make it run at a good frame rate and it should be based around Natchiketa's story.
+Make it an optional local multiplayer for it but it does not have to be MANDITORY.
+Set up a help menu.
+Be able to pause the game and everything stops in-game.
+Make in-game music and volume capabilities.
+Have a good story and make it realistic to the Natchiketa's story.
