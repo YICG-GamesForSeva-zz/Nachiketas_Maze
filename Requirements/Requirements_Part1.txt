@@ -1,6 +1,12 @@
 Overview of Changes
 
 1. Levels
+    
+    Leaves
+    Branches
+    Trunk
+    Roots 
+
 2. Setup
 3. Gameplay
 4. End Goals
