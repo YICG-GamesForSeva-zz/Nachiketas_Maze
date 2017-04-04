@@ -2,5 +2,5 @@ Overview of Changes
 
 1. Levels - Krish
 2. Setup - Granth
-3. Gameplay - Japesh~Level one,roots: The backround can be roots.  
+3. Gameplay - Japesh~Level one,roots: The backround can be roots. We can have a picture of roots as the wall and only some animals will be on this level. Only the ones that live on branches.
 4. End Goals - Yash, Mahir
