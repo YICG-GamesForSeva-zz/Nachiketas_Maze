@@ -1,12 +1,7 @@
 Overview of Changes
 
 1. Levels - Krish
-<<<<<<< HEAD
 2. Setup - Granth - 3 Boons, 3 Questions, 3 Days, 3 Character Models, 3 Character Textures, Move Animations, Voice Overs, and Textures
-<<<<<<< HEAD
-=======
-2. Setup - Granth
->>>>>>> origin/master
 3. Gameplay - Japesh
 4. End Goals - Yash, Mahirrr
 Get a working game that can be played and has controls.
