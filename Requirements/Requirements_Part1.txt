@@ -1,8 +1,12 @@
 Overview of Changes
 
 1. Levels - Krish
+<<<<<<< HEAD
 2. Setup - Granth - 3 Boons, 3 Questions, 3 Days, 3 Character Models, 3 Character Textures, Move Animations, Voice Overs, and Textures
 <<<<<<< HEAD
+=======
+2. Setup - Granth
+>>>>>>> origin/master
 3. Gameplay - Japesh
 4. End Goals - Yash, Mahirrr
 Get a working game that can be played and has controls.
@@ -12,8 +16,6 @@ Set up a help menu.
 Be able to pause the game and everything stops in-game.
 Make in-game music and volume capabilities.
 Have a good story and make it realistic to the Natchiketa's story.
-=======
 3. Gameplay - Japesh~Level one,roots: The backround can be roots. 
     We can have a picture of roots as the wall and only some animals will be on this level. Only the ones that live on branches.
 4. End Goals - Yash, Mahir
->>>>>>> origin/master
